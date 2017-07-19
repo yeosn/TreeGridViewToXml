@@ -3,3 +3,6 @@ H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\bin\Debug\TreeGridViewToXml.pdb
 H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\obj\Debug\TreeGridViewToXml.dll
 H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\obj\Debug\TreeGridViewToXml.pdb
 H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\obj\Debug\TreeGridViewToXml.csprojResolveAssemblyReference.cache
+H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\bin\Debug\Newtonsoft.Json.dll
+H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\bin\Debug\TimeLineDataEditor.dll
+H:\GitHub\TreeGridViewToXml\TreeGridViewToXml\bin\Debug\TimeLineDataEditor.pdb

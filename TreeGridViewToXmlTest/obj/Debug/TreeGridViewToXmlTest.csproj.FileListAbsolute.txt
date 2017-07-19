@@ -9,3 +9,5 @@ H:\GitHub\TreeGridViewToXml\TreeGridViewToXmlTest\bin\Debug\TreeGridViewToXml.dl
 H:\GitHub\TreeGridViewToXml\TreeGridViewToXmlTest\bin\Debug\TreeGridViewToXml.pdb
 H:\GitHub\TreeGridViewToXml\TreeGridViewToXmlTest\obj\Debug\TreeGridViewToXmlTest.exe
 H:\GitHub\TreeGridViewToXml\TreeGridViewToXmlTest\obj\Debug\TreeGridViewToXmlTest.pdb
+H:\GitHub\TreeGridViewToXml\TreeGridViewToXmlTest\bin\Debug\TimeLineDataEditor.dll
+H:\GitHub\TreeGridViewToXml\TreeGridViewToXmlTest\bin\Debug\TimeLineDataEditor.pdb

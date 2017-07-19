@@ -49,15 +49,15 @@ namespace TreeGridViewToXml
             document.Root.Add(rootMindNode.DataElement);
             rootMindNode.GenerateChildNode();
         }
-        
+
         /// <summary>
         /// 保存为xml文件
         /// </summary>
-        /// <param name="fileName">要保存的xml文件的路径</param>
+        /// <param name="fileName">要保存的xml文件的路径</param> 
         public void Save(string fileName)
         {
             GenerateXml();
-            document.Save(fileName);
+            document.Save(fileName);      
         }
     }
 }
